@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.list:hover {
+  color: yellow;
+}
+.pagination {
+  list-style: none;
+  display: inline-grid;
+}
+
+.button {
+  width: 100px;
+  height: 35px;
+}
+
+.statName {
+  display: grid;
+  color: gray;
+  padding-left: 20px;
+}
